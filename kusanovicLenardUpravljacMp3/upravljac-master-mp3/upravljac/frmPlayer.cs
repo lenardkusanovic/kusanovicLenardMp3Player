@@ -12,7 +12,6 @@ namespace upravljac
 {
     public partial class frmPlayer : Form
     {
-        private PlayerKontrola mp3Player = new PlayerKontrola();
         public frmPlayer()
         {
             InitializeComponent();
@@ -27,7 +26,7 @@ namespace upravljac
                 ofd.Filter = "Mp3 Files|*.mp3";
                 if (ofd.ShowDialog() == DialogResult.OK)
                 {
-                    mp3Player.open(ofd.FileName);
+                    Muzika.open(ofd.FileName);
                 }
             }
         }

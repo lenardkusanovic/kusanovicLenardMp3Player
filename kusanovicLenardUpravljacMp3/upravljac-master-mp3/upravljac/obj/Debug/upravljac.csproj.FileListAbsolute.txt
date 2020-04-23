@@ -17,3 +17,12 @@ C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\Upravljac-master\kusanovi
 C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\Upravljac-master\kusanovicLenardUpravljac\upravljac-master\upravljac\bin\Debug\upravljac.exe.config
 C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\Upravljac-master\kusanovicLenardUpravljac\upravljac-master\upravljac\bin\Debug\upravljac.exe
 C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\Upravljac-master\kusanovicLenardUpravljac\upravljac-master\upravljac\bin\Debug\upravljac.pdb
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardUpravljacMp3\upravljac-master-mp3\upravljac\bin\Debug\upravljac.exe.config
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardUpravljacMp3\upravljac-master-mp3\upravljac\bin\Debug\upravljac.exe
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardUpravljacMp3\upravljac-master-mp3\upravljac\bin\Debug\upravljac.pdb
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardUpravljacMp3\upravljac-master-mp3\upravljac\obj\Debug\upravljac.csprojAssemblyReference.cache
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardUpravljacMp3\upravljac-master-mp3\upravljac\obj\Debug\upravljac.frmPlayer.resources
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardUpravljacMp3\upravljac-master-mp3\upravljac\obj\Debug\upravljac.Properties.Resources.resources
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardUpravljacMp3\upravljac-master-mp3\upravljac\obj\Debug\upravljac.csproj.GenerateResource.cache
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardUpravljacMp3\upravljac-master-mp3\upravljac\obj\Debug\upravljac.exe
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardUpravljacMp3\upravljac-master-mp3\upravljac\obj\Debug\upravljac.pdb
